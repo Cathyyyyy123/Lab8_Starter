@@ -1,1 +1,2 @@
 # Lab 8 - Starter
+1. We would fit our automated tests in our Recipe project development pipeline within a Github action that runs whenever code is pushed. This allows us to execute tests automatically and independently once we make any changes. It offers the advantages of early detection, speed, consistency, and collaboration.
